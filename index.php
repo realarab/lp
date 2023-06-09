@@ -1931,7 +1931,7 @@
                 </a>
               </div>
               <div class="col-xs-6">
-                <a href="https://kupukupu.online/" target="_blank" rel="nofollow noreferrer">
+                <a href="https://google.co.id/" target="_blank" rel="nofollow noreferrer">
                   <span class="tron-regis">DAFTAR</span>
                 </a>
               </div>
@@ -2451,12 +2451,12 @@
                 </div>
               </div>
               <div class="fixed-footer">
-                <a href="https://kupukupu.online/" rel="nofollow noopener" target="_blank"class="wobble"><amp-img layout="intrinsic" height="75" width="75" src="https://i.postimg.cc/zv86w7RN/whatsapp-slot-gacor.png" alt="whatsapp Situs Slot Gacor"></amp-img> Whatsapp
+                <a href="https://google.co.id/" rel="nofollow noopener" target="_blank"class="wobble"><amp-img layout="intrinsic" height="75" width="75" src="https://i.postimg.cc/zv86w7RN/whatsapp-slot-gacor.png" alt="whatsapp Situs Slot Gacor"></amp-img> Whatsapp
                 </a>
-                <a href="https://kupukupu.online/" rel="nofollow noopener" target="_blank" class="tada">
+                <a href="https://google.co.id/" rel="nofollow noopener" target="_blank" class="tada">
                   <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.postimg.cc/15zY9fGv/daftar-slot-gacor.png" alt="daftar Situs Slot Gacor"></amp-img> Daftar
                 </a>
-                <a href="https://kupukupu.online/" rel="nofollow noopener" target="_blank" class="wobble">
+                <a href="https://google.co.id/" rel="nofollow noopener" target="_blank" class="wobble">
                   <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.postimg.cc/pT65zGSh/livechat-slot-gacor.png" alt="livechat Situs Slot Gacor"></amp-img> Live Chat
                 </a>
                 </div>
